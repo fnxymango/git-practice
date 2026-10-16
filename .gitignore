@@ -1,0 +1,4 @@
+file_list.txt
+__pycache__/
+*.log
+.env
